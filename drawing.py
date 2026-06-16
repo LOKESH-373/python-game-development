@@ -1,0 +1,11 @@
+import turtle
+pointer=turtle.Turtle()
+pointer.left(90)
+pointer.forward(40)
+pointer.left(90)
+pointer.forward(40)
+pointer.left(90)
+pointer.forward(40)
+pointer.left(90)
+pointer.forward(40)
+turtle.done()
